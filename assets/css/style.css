@@ -81,13 +81,12 @@ header nav ul li a {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.float-left {
+.img-left img{
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.img-right img{
     float: right;
     margin-left: 25px;
 }
