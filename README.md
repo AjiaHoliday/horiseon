@@ -3,13 +3,13 @@
 ## Purpose
 A website offering website SEO sevices and marketing
 
-# Built With
+## Built With
 * HTML
 * CSS
 
 ## Website
 https://ajiaholiday.github.io/horiseon
 
-##Contribution
+## Contribution
 Made with ❤️ by Ajia Holiday
 
